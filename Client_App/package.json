@@ -1,0 +1,19 @@
+{
+    "name": "client_socket",
+    "version": "1.0.0",
+    "description": "Socket Connection Implemenation and Checkcase for real time data Transfers",
+    "main": "index.js",
+    "type": "module",
+
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "socket.io": "^4.7.4",
+        "socket.io-client": "^4.7.4"
+    }
+
+
+}
